@@ -2,7 +2,7 @@ Flight tracker for the inkplate 10 board.
 
 Plz don't judge my CPP, I started learning it for this project.
 
-Pulls from flight radar and displays the closest plan to the coordinates you set. 
+Pulls from flight radar and displays the closest plane to the coordinates you set. 
 
 Made this due to living under the heathrow flight path.
 
